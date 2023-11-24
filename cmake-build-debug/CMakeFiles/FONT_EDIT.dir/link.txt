@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\FONT_EDIT.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\FONT_EDIT.dir/objects.a @CMakeFiles\FONT_EDIT.dir\objects1
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\FONT_EDIT.dir/objects.a -Wl,--no-whole-archive -o FONT_EDIT.exe -Wl,--out-implib,libFONT_EDIT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FONT_EDIT.dir\linkLibs.rsp

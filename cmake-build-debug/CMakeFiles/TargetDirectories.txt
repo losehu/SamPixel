@@ -1,0 +1,3 @@
+C:/Users/RUPC/CLionProjects/FONT-EDIT/cmake-build-debug/CMakeFiles/FONT_EDIT.dir
+C:/Users/RUPC/CLionProjects/FONT-EDIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/RUPC/CLionProjects/FONT-EDIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

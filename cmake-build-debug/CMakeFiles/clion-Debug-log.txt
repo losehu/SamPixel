@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S C:\Users\RUPC\CLionProjects\FONT-EDIT -B C:\Users\RUPC\CLionProjects\FONT-EDIT\cmake-build-debug
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.6.0 in C:/OPENCV/MING-BUILD/install/x64/mingw/lib
+-- You might need to add C:/OPENCV/MING-BUILD/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/RUPC/CLionProjects/FONT-EDIT/cmake-build-debug
