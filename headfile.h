@@ -9,7 +9,9 @@
 #include <ft2build.h>
 #include FT_FREETYPE_H
 #include <opencv2/opencv.hpp>
+#include <iostream>
+#include <fstream>
+#include <cstdio>
 using namespace std;
-using namespace cv;
 
 #endif //FONT_EDIT_HEADFILE_H

@@ -128,29 +128,29 @@ FONT_EDIT/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FONT_EDIT.dir\build.make CMakeFiles/FONT_EDIT.dir/build
 .PHONY : FONT_EDIT/fast
 
-config.obj: config.cpp.obj
-.PHONY : config.obj
+config/config.obj: config/config.cpp.obj
+.PHONY : config/config.obj
 
 # target to build an object file
-config.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FONT_EDIT.dir\build.make CMakeFiles/FONT_EDIT.dir/config.cpp.obj
-.PHONY : config.cpp.obj
+config/config.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FONT_EDIT.dir\build.make CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj
+.PHONY : config/config.cpp.obj
 
-config.i: config.cpp.i
-.PHONY : config.i
+config/config.i: config/config.cpp.i
+.PHONY : config/config.i
 
 # target to preprocess a source file
-config.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FONT_EDIT.dir\build.make CMakeFiles/FONT_EDIT.dir/config.cpp.i
-.PHONY : config.cpp.i
+config/config.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FONT_EDIT.dir\build.make CMakeFiles/FONT_EDIT.dir/config/config.cpp.i
+.PHONY : config/config.cpp.i
 
-config.s: config.cpp.s
-.PHONY : config.s
+config/config.s: config/config.cpp.s
+.PHONY : config/config.s
 
 # target to generate assembly for a file
-config.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FONT_EDIT.dir\build.make CMakeFiles/FONT_EDIT.dir/config.cpp.s
-.PHONY : config.cpp.s
+config/config.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FONT_EDIT.dir\build.make CMakeFiles/FONT_EDIT.dir/config/config.cpp.s
+.PHONY : config/config.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -185,9 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... FONT_EDIT
-	@echo ... config.obj
-	@echo ... config.i
-	@echo ... config.s
+	@echo ... config/config.obj
+	@echo ... config/config.i
+	@echo ... config/config.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

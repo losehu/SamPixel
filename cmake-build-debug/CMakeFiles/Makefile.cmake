@@ -7,11 +7,11 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "C:/OPENCV/MING-BUILD/install/OpenCVConfig-version.cmake"
-  "C:/OPENCV/MING-BUILD/install/OpenCVConfig.cmake"
-  "C:/OPENCV/MING-BUILD/install/x64/mingw/lib/OpenCVConfig.cmake"
-  "C:/OPENCV/MING-BUILD/install/x64/mingw/lib/OpenCVModules-release.cmake"
-  "C:/OPENCV/MING-BUILD/install/x64/mingw/lib/OpenCVModules.cmake"
+  "C:/OPENCV/MING-BUILD/OpenCVConfig-version.cmake"
+  "C:/OPENCV/MING-BUILD/OpenCVConfig.cmake"
+  "C:/OPENCV/MING-BUILD/x64/mingw/lib/OpenCVConfig.cmake"
+  "C:/OPENCV/MING-BUILD/x64/mingw/lib/OpenCVModules-release.cmake"
+  "C:/OPENCV/MING-BUILD/x64/mingw/lib/OpenCVModules.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"

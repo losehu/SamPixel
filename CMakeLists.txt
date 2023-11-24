@@ -4,11 +4,14 @@ project(FONT_EDIT)
 set(CMAKE_CXX_STANDARD 17)
 
 # 添加可执行文件并链接 OpenCV 库
-add_executable(FONT_EDIT main.cpp config.cpp config.h headfile.h)
-set(OpenCV_DIR C:/OPENCV/MING-BUILD/install)
+add_executable(FONT_EDIT main.cpp config/config.cpp config/config.h headfile.h)
+set(OpenCV_DIR C:/OPENCV/MING-BUILD)
+
+# 查找 OpenCV 包
 find_package(OpenCV REQUIRED)
 target_link_libraries(FONT_EDIT ${OpenCV_LIBS})
 
+include_directories(C:/OPENCV/MING-BUILD/include)
 # 指定 FreeType 路径
 set(FREETYPE_DIR "C:/OPENCV/freetype-demos/freetype")  # 替换为你的 FreeType 路径
 

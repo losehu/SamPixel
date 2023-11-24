@@ -73,58 +73,58 @@ CMakeFiles/FONT_EDIT.dir/main.cpp.obj: CMakeFiles/FONT_EDIT.dir/includes_CXX.rsp
 CMakeFiles/FONT_EDIT.dir/main.cpp.obj: C:/Users/RUPC/CLionProjects/FONT-EDIT/main.cpp
 CMakeFiles/FONT_EDIT.dir/main.cpp.obj: CMakeFiles/FONT_EDIT.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RUPC\CLionProjects\FONT-EDIT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FONT_EDIT.dir/main.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FONT_EDIT.dir/main.cpp.obj -MF CMakeFiles\FONT_EDIT.dir\main.cpp.obj.d -o CMakeFiles\FONT_EDIT.dir\main.cpp.obj -c C:\Users\RUPC\CLionProjects\FONT-EDIT\main.cpp
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FONT_EDIT.dir/main.cpp.obj -MF CMakeFiles\FONT_EDIT.dir\main.cpp.obj.d -o CMakeFiles\FONT_EDIT.dir\main.cpp.obj -c C:\Users\RUPC\CLionProjects\FONT-EDIT\main.cpp
 
 CMakeFiles/FONT_EDIT.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FONT_EDIT.dir/main.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RUPC\CLionProjects\FONT-EDIT\main.cpp > CMakeFiles\FONT_EDIT.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RUPC\CLionProjects\FONT-EDIT\main.cpp > CMakeFiles\FONT_EDIT.dir\main.cpp.i
 
 CMakeFiles/FONT_EDIT.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FONT_EDIT.dir/main.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RUPC\CLionProjects\FONT-EDIT\main.cpp -o CMakeFiles\FONT_EDIT.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RUPC\CLionProjects\FONT-EDIT\main.cpp -o CMakeFiles\FONT_EDIT.dir\main.cpp.s
 
-CMakeFiles/FONT_EDIT.dir/config.cpp.obj: CMakeFiles/FONT_EDIT.dir/flags.make
-CMakeFiles/FONT_EDIT.dir/config.cpp.obj: CMakeFiles/FONT_EDIT.dir/includes_CXX.rsp
-CMakeFiles/FONT_EDIT.dir/config.cpp.obj: C:/Users/RUPC/CLionProjects/FONT-EDIT/config.cpp
-CMakeFiles/FONT_EDIT.dir/config.cpp.obj: CMakeFiles/FONT_EDIT.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RUPC\CLionProjects\FONT-EDIT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FONT_EDIT.dir/config.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FONT_EDIT.dir/config.cpp.obj -MF CMakeFiles\FONT_EDIT.dir\config.cpp.obj.d -o CMakeFiles\FONT_EDIT.dir\config.cpp.obj -c C:\Users\RUPC\CLionProjects\FONT-EDIT\config.cpp
+CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj: CMakeFiles/FONT_EDIT.dir/flags.make
+CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj: CMakeFiles/FONT_EDIT.dir/includes_CXX.rsp
+CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj: C:/Users/RUPC/CLionProjects/FONT-EDIT/config/config.cpp
+CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj: CMakeFiles/FONT_EDIT.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RUPC\CLionProjects\FONT-EDIT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj -MF CMakeFiles\FONT_EDIT.dir\config\config.cpp.obj.d -o CMakeFiles\FONT_EDIT.dir\config\config.cpp.obj -c C:\Users\RUPC\CLionProjects\FONT-EDIT\config\config.cpp
 
-CMakeFiles/FONT_EDIT.dir/config.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FONT_EDIT.dir/config.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RUPC\CLionProjects\FONT-EDIT\config.cpp > CMakeFiles\FONT_EDIT.dir\config.cpp.i
+CMakeFiles/FONT_EDIT.dir/config/config.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FONT_EDIT.dir/config/config.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RUPC\CLionProjects\FONT-EDIT\config\config.cpp > CMakeFiles\FONT_EDIT.dir\config\config.cpp.i
 
-CMakeFiles/FONT_EDIT.dir/config.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FONT_EDIT.dir/config.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RUPC\CLionProjects\FONT-EDIT\config.cpp -o CMakeFiles\FONT_EDIT.dir\config.cpp.s
+CMakeFiles/FONT_EDIT.dir/config/config.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FONT_EDIT.dir/config/config.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RUPC\CLionProjects\FONT-EDIT\config\config.cpp -o CMakeFiles\FONT_EDIT.dir\config\config.cpp.s
 
 # Object files for target FONT_EDIT
 FONT_EDIT_OBJECTS = \
 "CMakeFiles/FONT_EDIT.dir/main.cpp.obj" \
-"CMakeFiles/FONT_EDIT.dir/config.cpp.obj"
+"CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj"
 
 # External object files for target FONT_EDIT
 FONT_EDIT_EXTERNAL_OBJECTS =
 
 FONT_EDIT.exe: CMakeFiles/FONT_EDIT.dir/main.cpp.obj
-FONT_EDIT.exe: CMakeFiles/FONT_EDIT.dir/config.cpp.obj
+FONT_EDIT.exe: CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj
 FONT_EDIT.exe: CMakeFiles/FONT_EDIT.dir/build.make
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_gapi460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_highgui460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_ml460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_objdetect460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_photo460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_stitching460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_video460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_videoio460.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_gapi452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_highgui452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_ml452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_objdetect452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_photo452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_stitching452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_video452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_videoio452.dll.a
 FONT_EDIT.exe: C:/OPENCV/freetype-demos/freetype/freetype.lib
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_imgcodecs460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_dnn460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_calib3d460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_features2d460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_flann460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_imgproc460.dll.a
-FONT_EDIT.exe: C:/OPENCV/MING-BUILD/install/x64/mingw/lib/libopencv_core460.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_dnn452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_imgcodecs452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_calib3d452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_features2d452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_flann452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_imgproc452.dll.a
+FONT_EDIT.exe: C:/OPENCV/MING-BUILD/x64/mingw/lib/libopencv_core452.dll.a
 FONT_EDIT.exe: CMakeFiles/FONT_EDIT.dir/linkLibs.rsp
 FONT_EDIT.exe: CMakeFiles/FONT_EDIT.dir/objects1
 FONT_EDIT.exe: CMakeFiles/FONT_EDIT.dir/link.txt

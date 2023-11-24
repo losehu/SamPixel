@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FONT_EDIT.dir/config.cpp.obj"
-  "CMakeFiles/FONT_EDIT.dir/config.cpp.obj.d"
+  "CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj"
+  "CMakeFiles/FONT_EDIT.dir/config/config.cpp.obj.d"
   "CMakeFiles/FONT_EDIT.dir/main.cpp.obj"
   "CMakeFiles/FONT_EDIT.dir/main.cpp.obj.d"
   "FONT_EDIT.exe"
