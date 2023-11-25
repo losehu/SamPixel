@@ -48,7 +48,7 @@ int main() {
     // 将渲染后的字符数据复制到图像中
     for (int y = 0; y < face->glyph->bitmap.rows; ++y) {
         for (int x = 0; x < face->glyph->bitmap.width; ++x) {
-            if(!INVERSE_COLOR)
+            if(!INVERSE_COLOR.now)
                 image.at<uchar>(y, x) = uchar(255-face->glyph->bitmap.buffer[y * face->glyph->bitmap.width + x]);
             else             image.at<uchar>(y, x) = uchar(face->glyph->bitmap.buffer[y * face->glyph->bitmap.width + x]);
         }
